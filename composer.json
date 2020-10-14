@@ -1,0 +1,17 @@
+{
+    "name": "renatoao/gamenews",
+    "description": "Projeto API site jogos",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renato Araujo",
+            "email": "renato.oliveira34@fatec.sp.gov.br"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+}
